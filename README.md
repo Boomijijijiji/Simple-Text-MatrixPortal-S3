@@ -5,7 +5,10 @@ As a novice it was a lot of trial/error in getting basic text with changeable ch
 
 This basic code produces three lines of text, and makes it clear/easy to replace the text, choose font, and change font colors.  
 
-Instructions:
+
+Prerequisites to get your MatrixPortal S3 found on Adafruit Learn's site: https://learn.adafruit.com/adafruit-matrixportal-s3/overview
+
+Instructions for simple text on MatrixPortal S3:
 1) Extract the contents of the zip. This includes the code.py / lib / font files, 
 2) Copy and paste these files onto your MatrixPortal S3's 'CIRCUITPY (X:)' drive.,
 3) In MU, or some other editor, open the CODE.PY and review the INPUT hashtag notes for how to:
