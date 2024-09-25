@@ -7,7 +7,6 @@ import board
 import terminalio #Alternative to adafruit_bitmap_font
 from adafruit_bitmap_font import bitmap_font
 from adafruit_matrixportal.matrixportal import MatrixPortal
-#import adafruit_requests
 
 
 #INPUTS-INPUTS-INPUTS-INPUTS-INPUTS-INPUTS
