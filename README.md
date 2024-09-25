@@ -13,4 +13,8 @@ Instructions:
    B) Change the font, and,
    3) change the color.
 
+Example 1:
 ![Image](https://github.com/user-attachments/assets/f8caeb87-3887-4cf4-8875-c5f0b15aeaa7)
+
+Example 2:
+![Simple Text End Result Example 2](https://github.com/user-attachments/assets/6d82eb6d-2530-49df-b66d-0d7f89f1959b)
